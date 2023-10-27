@@ -1,2 +1,5 @@
 # TO-DO-LIST
-The user will be able to add a todo, create, delete, and update using this to-do_list app
+TODO app with authentication using mern (MongoDB, express.js, react.js, node.js)
+The user can add a to-do, create, delete, and update using this to-do_list app.
+
+
